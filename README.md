@@ -1,14 +1,20 @@
 # particleHeader
 
-![Demo](./fomoHeaderDemo.gif)
+## Table of Contents
 
 - [particleHeader](#particleheader)
+    - [Table of Contents](#table-of-contents)
+    - [Demo](#demo)
     - [Installation](#installation)
     - [Usage](#usage)
     - [Example](#example)
     - [Django-mako-plus Installation](#django-mako-plus-installation)
     - [Django-mako-plus Usage](#django-mako-plus-usage)
     - [Django-mako-plus Example](#django-mako-plus-example)
+
+## Demo
+
+![Demo](./fomoHeaderDemo.gif)
 
 ## Installation
 
