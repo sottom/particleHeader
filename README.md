@@ -19,7 +19,9 @@
 ## Installation
 
 - Clone this repository into your project folder
-  > git clone <https://github.com/sottom/particleHeader.git>
+  ```git
+  git clone https://github.com/sottom/particleHeader.git
+  ```
 
 ## Usage
 
@@ -41,7 +43,7 @@
 
 - Add call to particleHeader() function immediately before the ending \<\/body> tag
     ```html
-        <!-- add path to the image your want to render as a parameter -->
+        <!-- add path to your image as a parameter -->
         <script>
             particleHeader('/path/to/image')
         </script>
@@ -78,7 +80,9 @@
 ## Django-mako-plus Installation
 
 - Clone this repository into your root folder (same folder as your apps)
-  > git clone <https://github.com/sottom/particleHeader.git>
+  ```git
+  git clone https://github.com/sottom/particleHeader.git
+  ```
 
 ## Django-mako-plus Usage
 
@@ -101,7 +105,7 @@
 
 - Add call to particleHeader() function immediately before the ending \<\/body> tag
     ```html
-        <!-- add path to the image your want to render as a parameter -->
+        <!-- add path to your image as a parameter -->
         <script>
             particleHeader('${ STATIC_URL }path/to/image')
         </script>
