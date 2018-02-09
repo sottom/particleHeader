@@ -1,6 +1,6 @@
 # particleHeader
 
-![Demo](./img/fomoHeaderDemo.gif)
+![Demo](./fomoHeaderDemo.gif)
 
 - [particleHeader](#particleheader)
     - [Installation](#installation)
